@@ -6,7 +6,7 @@ The dismissal process for students being picked up by car is often confusing, fr
 
 This system uses a QR code scanning kiosk to organize car arrivals and sequentially assign them to a cone and improve the experience for both staff and parents.
 
-The goals ffor this system were:
+The goals for this system were:
 1. Generate unique QR codes for each parent containing their student’s information.
 2. Develop a kiosk station to scan parent QR codes and assign them to a designated color cone zone.
 3. Build a user-friendly GUI that allows parents to enter and update their information.
